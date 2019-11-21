@@ -1,0 +1,4 @@
+subject 1 mean = 87.250000, std. = 6.897564
+subject 2 mean = 87.250000, std. = 6.897564
+subject 3 mean = 89.444444, std. = 8.381343
+subject 4 mean = 84.277778, std. = 3.444892

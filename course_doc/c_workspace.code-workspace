@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.rmd": "markdown",
+      "stdio.h": "c",
+      "string.h": "c",
+      "stdlib.h": "c",
+      "math.h": "c",
+      "stdbool.h": "c"
+    },
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "block-outline",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.tabCompletion": "on",
+    "workbench.iconTheme": "material-icon-theme"
+  }
+}
