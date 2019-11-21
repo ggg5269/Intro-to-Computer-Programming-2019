@@ -1,5 +1,6 @@
 # Intro to Computer Programming 2019
- 
+
+## Course Outline 
 | Week | Date  | Content                                                                           |
 | ---- | ----- | --------------------------------------------------------------------------------- |
 | 1    | 9/12  | **Basic** :<br>I/O: printf, scanf<br>Variable: int, float<br>Arithmetic Operation |
