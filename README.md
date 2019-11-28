@@ -1,6 +1,7 @@
 # Intro to Computer Programming 2019
 
-## Course Outline 
+## Course Outline
+
 | Week | Date  | Content                                                                           |
 | ---- | ----- | --------------------------------------------------------------------------------- |
 | 1    | 9/12  | **Basic** :<br>I/O: printf, scanf<br>Variable: int, float<br>Arithmetic Operation |
@@ -14,4 +15,4 @@
 | 9    | 11/7  | --                                                                                |
 | 10   | 11/14 | **UDP** :<br>Client/server<br>Broadcasting<br>Chat room                           |
 | 11   | 11/21 | **TCP** :<br>Client/server<br>Chat room                                           |
-
+| 12   | 11/28 | **TCP** :<br>BBS Client                                                           |
