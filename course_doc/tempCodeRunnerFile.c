@@ -1,1 +1,1 @@
-Ws2_32
+int main(int argc, char *argv[])
