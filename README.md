@@ -16,3 +16,4 @@
 | 10   | 11/14 | **UDP** :<br>Client/server<br>Broadcasting<br>Chat room                           |
 | 11   | 11/21 | **TCP** :<br>Client/server<br>Chat room                                           |
 | 12   | 11/28 | **TCP** :<br>BBS Client                                                           |
+| 13   | 12/05 | **FTP**:<br>Send Account<br>Send Password                                         |
