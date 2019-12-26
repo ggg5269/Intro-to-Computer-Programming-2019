@@ -18,4 +18,5 @@
 | 12   | 11/28 | **TCP** :<br>BBS Client                                                            |
 | 13   | 12/05 | **FTP** :<br>Send Account<br>Send Password                                         |
 | 14   | 12/12 | **FTP** :<br>NLST<br>MKDIR<br>RMDIR                                                |
-| 15   | 12/19 | **GOMOKU** :????????                                                       |
+| 15   | 12/19 | **GOMOKU**                                                                         |
+| 16   | 12/26 | **GOMOKU**: TCP                                                                    |
